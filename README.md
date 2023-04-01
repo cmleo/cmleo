@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 🔭 I'm currently working on my FoodRunner mobile application, you can check both API and Client repos of the app down bellow for more details<br>🌱 I'm currently learning :<br>    - Typescript and Angular in the Nagarro's WebDev Remote Learning program <br>    -  Other technologies like React Native, NodeJS, ExpressJS, MongoDB through developing the FoodRunner application<br>
 
 
