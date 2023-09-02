@@ -1,5 +1,5 @@
 # About
-🔭 I'm currently working on my FoodRunner mobile application, you can check both API and Client repos of the app down bellow for more details<br>API Repo: https://github.com/cmleo/FoodRunner-Api <br>Client Repo: https://github.com/cmleo/FoodRunner-Client <br>🌱 I'm currently learning :<br>    - Typescript and Angular because just finished the Nagarro's WebDev Remote Learning program <br>    -  Other technologies like React Native, NodeJS, ExpressJS, MongoDB through developing the FoodRunner application<br>
+🔭 I'm currently working on the Int-Clinic project, you can check the repo of the app down bellow for more details<br>https://github.com/cmleo/Int-Clinic<br>🌱 I'm currently learning :<br>    - Typescript and Angular through developing the Int-Clinic project that me and my team from the Nagarro's Internship (that I recently finished) worked on during the program <br>    -  Other technologies like React, React Native, NodeJS, ExpressJS, MongoDB are also on my list of future technologies that I want to work more with<br>
 
 
 ## 🌐 Socials:
